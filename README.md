@@ -1,3 +1,4 @@
 # React
-Full stack course with React
-Introduction to React 
+
+These are the assignments for the Full Stack course offer by The University of Helsinki at
+https://fullstackopen.com/en .
